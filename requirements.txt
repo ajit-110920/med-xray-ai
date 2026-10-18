@@ -1,0 +1,23 @@
+# Chest X-ray Multi-Label Disease Classification
+# Complete application dependencies (Python 3.10 - 3.12 recommended)
+
+# Backend Framework & Server
+fastapi>=0.110.0,<1.0.0
+uvicorn>=0.28.0,<1.0.0
+python-multipart>=0.0.9
+
+# Deep Learning & Numerical Computing
+tensorflow>=2.15.0
+keras>=3.0.0
+numpy>=1.26.0
+pillow>=10.0.0
+pydantic>=2.6.0
+
+# Frontend Dashboard
+streamlit>=1.32.0
+requests>=2.31.0
+pandas>=2.1.0
+
+# Testing & Quality Assurance
+pytest>=8.0.0
+httpx>=0.27.0

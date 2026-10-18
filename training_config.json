@@ -1,0 +1,11 @@
+{
+  "dataset": "NIH ChestX-ray14",
+  "architecture": "DenseNet121",
+  "image_size": 224,
+  "training_images": 8000,
+  "validation_images": 2000,
+  "number_of_labels": 14,
+  "epochs_completed": 3,
+  "best_validation_loss": 0.17232446372509003,
+  "best_overall_validation_auc": 0.7046981453895569
+}
